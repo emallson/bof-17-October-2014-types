@@ -1,8 +1,8 @@
 * Birds of a Feather Presentation (17 October 2014) - Type Systems
 ** Running the code
 
-   Use ~make $language~ to build and run a specific language or just ~make~ to
-   make all of them.
+   Use ~make build-$language~ to build a specific language and ~make
+   run-$language~ to run it or just ~make~ to make all of them.
 
 *** Requirements
 
