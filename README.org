@@ -1,0 +1,14 @@
+* Birds of a Feather Presentation (17 October 2014) - Type Systems
+** Running the code
+
+   Use ~make $language~ to build and run a specific language or just ~make~ to
+   make all of them.
+
+*** Requirements
+
+    - C/C++: GNU C/C++ compilers
+    - Haskell: [[http://www.haskell.org/cabal/][Cabal]]
+    - Racket: Racket Intepreter
+    - Python:
+      + Python 3 Interpreter
+      + [[http://www.mypy-lang.org/][MyPy]] (Static Type Checker)
